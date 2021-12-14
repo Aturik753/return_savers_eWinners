@@ -50,7 +50,7 @@ function AdressForm() {
       
     </div>
   </div>
-  <button type="submit" class="btn btn-primary" oncClick={setCheckout}>Pay and Checkput</button>
+  <button type="submit" class="btn btn-primary" oncClick={setCheckout}>Pay and Checkout</button>
   
 </form>
         </div>
